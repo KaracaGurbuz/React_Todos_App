@@ -1,3 +1,5 @@
+### patika.dev React Kursu ödevidir. https://app.patika.dev/courses/react/odev2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
